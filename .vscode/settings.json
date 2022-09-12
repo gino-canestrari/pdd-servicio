@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.jdt.ls.vmargs": "-Xms150m -Xmx600m",
+  "maven.view": "flat"
+}
